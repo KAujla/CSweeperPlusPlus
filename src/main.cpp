@@ -372,7 +372,7 @@ int main(int, char**) {
 			currentSmile = 0;
 			gameOver = false;
 			//debug
-			playfield->printRawField();
+			//playfield->printRawField();
 
 		}
 		
